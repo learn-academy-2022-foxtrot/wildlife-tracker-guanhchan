@@ -1,0 +1,2 @@
+class Animail < ApplicationRecord
+end
